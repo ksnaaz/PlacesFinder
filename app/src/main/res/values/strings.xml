@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Places Finder</string>
+
+     
+        
+    <string-array name="place_type">
+        <item>airport</item>       
+        <item>atm</item>       
+        <item>bank</item>      
+        <item>fire_station</item>      
+        <item>hospital</item>     
+        <item>post_office</item>
+        <item>police_station</item>    
+        <item>restaurant</item>
+    </string-array>
+     
+        
+    <string-array name="place_type_name">
+                
+        <item>Airport</item>
+                
+        <item>ATM</item>
+                
+        <item>Bank</item>
+                
+        <item>Fire Station</item>
+                
+        <item>Hospital</item>
+                
+        <item>Post Office</item>
+                
+        <item>Police Station</item>
+                               
+        <item>Restaurant</item>
+            
+    </string-array>
+</resources>
